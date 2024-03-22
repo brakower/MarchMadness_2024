@@ -1,1 +1,1 @@
-//This project found the most noteworthy stats in college basketball throughout the past 50 years that predicted the correct output in March Madness games, and used these stats to create an equation to determine which March Madness team would win based on a user input of two teams. 
+This project found the most noteworthy stats in college basketball throughout the past 50 years that predicted the correct output in March Madness games, and used these stats to create an equation to determine which March Madness team would win based on a user input of two teams. 
